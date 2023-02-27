@@ -1,3 +1,3 @@
-# -DDU-GKY
+# DDU-GKY
 
 ### These are my projects
